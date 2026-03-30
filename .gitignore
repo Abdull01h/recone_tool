@@ -1,0 +1,44 @@
+# --- Python (RECON-X) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+ENV/
+*.log
+results/
+temp/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.directory
+
+# --- Web Development (Node/MERN/Vercel) ---
+node_modules/
+dist/
+.vercel
+build/
+.next/
+.cache/
+npm-debug.log*
+yarn-error.log*
+
+# --- Security & Database ---
+*.sql
+*.db
+*.sqlite3
+auth.json
+config.php
+credentials/
+ssh_keys/
+proxy_list.txt
+
+# --- Large Data Files ---
+*.csv
+*.json
+*.txt
+!requirements.txt
+!README.md
