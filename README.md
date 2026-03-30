@@ -32,3 +32,15 @@ RECON-X is a comprehensive information gathering and reconnaissance tool designe
 ⚠️ Disclaimer
 
 FOR EDUCATIONAL PURPOSES ONLY. This tool is designed for authorized security testing and research. The developer, MD ABDULLAH, is not responsible for any misuse or legal issues caused by this script. Always obtain permission before scanning any target.
+
+
+
+***👨‍💻 Developer Information***
+
+Name: MD ABDULLAH
+
+Role: AI Engineer & Cyber Security Researcher
+
+Version: 3.1 (Ultra)
+
+Environment: Optimized for Linux (Ubuntu/BlackArch) & Termux.
