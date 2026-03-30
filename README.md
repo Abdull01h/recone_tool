@@ -24,7 +24,7 @@ RECON-X is a comprehensive information gathering and reconnaissance tool designe
    cd recone_tool
 
 ***Install dependencies:***
-   pip install requests beautifulsoup4 python-whois
+   pip install -r requirements.txt
 
 ***Run the tool:***
    python vox.py
