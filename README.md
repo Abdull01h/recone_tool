@@ -20,7 +20,7 @@ RECON-X is a comprehensive information gathering and reconnaissance tool designe
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Abdull01h/RECON-X.git](https://github.com/Abdull01h/RECON-X.git)
+   git clone https://github.com/Abdull01h/recone_tool.git
    cd recone_tool
 
 ***Install dependencies:***
